@@ -190,23 +190,19 @@
       "categoryName": "Dairy Products",
       "seoUrl": "dairy-products"
     },
+    
     {
       "id": 5,
-      "categoryName": "Grains/Cereals",
-      "seoUrl": "grains-cereals"
-    },
-    {
-      "id": 6,
       "categoryName": "Meat/Poultry",
       "seoUrl": "meat-poultry"
     },
     {
-      "id": 7,
+      "id": 6,
       "categoryName": "Produce",
       "seoUrl": "produce"
     },
     {
-      "id": 8,
+      "id": 7,
       "categoryName": "Seafood",
       "seoUrl": "seafood"
     }
